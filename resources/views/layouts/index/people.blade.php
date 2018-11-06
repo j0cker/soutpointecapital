@@ -37,10 +37,10 @@
   <div class="slider stick-dots">
 
     <div class="slide">
-      <div class="slide__img">
+      <div class="slide__img" style="height: 850px !important;">
         <img src="" alt="" data-lazy="images/water.jpg" class="full-image animated" data-animation-in="zoomInImage"/>
       </div>
-      <div style="background: rgba(255,255,255,.6); width: 100%; height: 700px;" class="slide__content center">
+      <div style="background: rgba(255,255,255,.6); width: 100%; height: 850px;" class="slide__content center">
         <div class="slide__content--headings center">
           <h2 style="color: black; margin-top: 250px;" class="animated center" data-animation-in="fadeInUp">COOMING SOON</h2>
           
