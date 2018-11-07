@@ -5,14 +5,14 @@
         		<div class="row footer_inner">
         			<div class="col-lg-5 col-sm-6">
         				<aside class="f_widget ab_widget">
+						<!--
         					<div class="f_title">
         						<h3>About Us</h3>
         					</div>
-        					<p>We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business.</p>
-        					<p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-								© SOUTHPOINTE CAPITAL - All right reserved 2018. 
-							<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-							</p>
+						-->
+        					<a href="/">
+								<img style="width: 250px;" class="hvr-pulse" src="images/logo.png" alt="SOUTHPOINTE CAPITAL" id="logo">
+							</a>
         				</aside>
         			</div>
         			<div class="col-lg-5 col-sm-6">
@@ -112,6 +112,44 @@
 				});
             });
         
+        </script>
+
+		@php
+
+		if(isset($_GET["go"])){
+			$scroll = $_GET["go"];
+		} else {
+			$scroll = "";
+
+		}
+
+		@endphp
+
+		<script>
+            $(document).ready(function() {
+                // Handler for .ready() called.
+
+                @php
+
+                if($scroll=="aboutUsMenu"){
+
+                    @endphp
+                    $('html,body').animate({
+						scrollTop: $("#aboutUs").offset().top},
+						'slow');
+                    @php
+                }
+                if($scroll=="contactsMenu"){
+
+                    @endphp
+                    $('html,body').animate({
+						scrollTop: $("#contacts").offset().top},
+						'slow');
+                    @php
+                }
+
+                @endphp
+            });
         </script>
 
     </body>

@@ -43,7 +43,7 @@
                 if(response.data.success == "TRUE"){
                   console.log("[IndexCtrl][postMessage]");
 
-                  toastr["success"]("Tu correo electrónico se<br /> ha enviado correctamente", "");
+                  toastr["success"]("Your mail has been sent<br /> correctly", "");
                   functions.loadingEndWait();
 
                 } else {
