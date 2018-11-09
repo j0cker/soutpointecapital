@@ -40,9 +40,9 @@
         <div class="slide__img">
           <img src="" alt="" data-lazy="images/building1.jpg" class="full-image animated" data-animation-in="zoomInImage"/>
         </div>
-        <div style="background: rgba(255,255,255,.5); width: 100%; height: 700px;" class="slide__content center">
+        <div style="background: rgba(255,255,255,.5); width: auto; height: 900px;" class="slide__content center">
           <div style="background: rgba(255,255,255,.5);" class="slide__content--headings center">
-            <h2 style="padding-top: 25px; color: black; margin-top: 250px;" class="animated center" data-animation-in="fadeInUp">Financial Advisory</h2>
+            <h2 style="padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
             <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
             
           </div>
@@ -53,9 +53,9 @@
         <div class="slide__img">
           <img src="" alt="" data-lazy="images/building4.jpg" class="full-image animated" data-animation-in="zoomInImage"/>
         </div>
-        <div style="background: rgba(255,255,255,.5); width: 100%; height: 700px;" class="slide__content center">
+        <div style="background: rgba(255,255,255,.5); width: auto; height: 900px;" class="slide__content center">
           <div style="background: rgba(255,255,255,.5);" class="slide__content--headings center">
-            <h2 style="padding-top: 25px; color: black; margin-top: 250px;" class="animated center" data-animation-in="fadeInUp">Financial Advisory</h2>
+            <h2 style="padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
             <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
             
           </div>
@@ -66,9 +66,9 @@
         <div class="slide__img">
           <img src="" alt="" data-lazy="images/blue1.jpg" class="full-image animated" data-animation-in="zoomInImage"/>
         </div>
-        <div style="background: rgba(255,255,255,.5); width: 100%; height: 700px;" class="slide__content center">
+        <div style="background: rgba(255,255,255,.5); width: auto; height: 900px;" class="slide__content center">
           <div style="background: rgba(255,255,255,.5);" class="slide__content--headings center">
-            <h2 style="padding-top: 25px; color: black; margin-top: 250px;" class="animated center" data-animation-in="fadeInUp">Financial Advisory</h2>
+            <h2 style="padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
             <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
             
           </div>
@@ -79,9 +79,9 @@
         <div class="slide__img">
           <img src="" alt="" data-lazy="images/building7.jpg" class="full-image animated" data-animation-in="zoomInImage"/>
         </div>
-        <div style="background: rgba(255,255,255,.5); width: 100%; height: 700px;" class="slide__content center">
+        <div style="background: rgba(255,255,255,.5); width: auto; height: 900px;" class="slide__content center">
           <div style="background: rgba(255,255,255,.5);" class="slide__content--headings center">
-            <h2 style="padding-top: 25px; color: black; margin-top: 250px;" class="animated center" data-animation-in="fadeInUp">Financial Advisory</h2>
+            <h2 style="padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
             <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
             
           </div>
@@ -92,9 +92,9 @@
         <div class="slide__img">
           <img src="" alt="" data-lazy="images/building10.jpg" class="full-image animated" data-animation-in="zoomInImage"/>
         </div>
-        <div style="background: rgba(255,255,255,.5); width: 100%; height: 700px;" class="slide__content center">
+        <div style="background: rgba(255,255,255,.5); width: auto; height: 900px;" class="slide__content center">
           <div style="background: rgba(255,255,255,.5);" class="slide__content--headings center">
-            <h2 style="padding-top: 25px; color: black; margin-top: 250px;" class="animated center" data-animation-in="fadeInUp">Financial Advisory</h2>
+            <h2 style="padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
             <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
             
           </div>
@@ -145,31 +145,31 @@
             <div class="skill_main">
           <div data-aos="zoom-out" class="skill_item">
             <h4 style=" color: black;">Financials <span class="counter">100</span>%</h4>
-            <div style="padding-top: 4px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="progress">
+            <div style="padding-top: 5px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="progress">
               <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
           <div data-aos="zoom-out" class="skill_item">
             <h4 style=" color: black;">Valuations <span class="counter">100</span>%</h4>
-            <div style="padding-top: 4px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="progress">
+            <div style="padding-top: 5px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="progress">
               <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
           <div data-aos="zoom-out" class="skill_item">
             <h4 style=" color: black;">Companies Adquisitions <span class="counter">100</span>%</h4>
-            <div style="padding-top: 4px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="progress">
+            <div style="padding-top: 5px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="progress">
               <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
           <div data-aos="zoom-out" class="skill_item">
             <h4 style=" color: black;">Due Diligence <span class="counter">100</span>%</h4>
-            <div style="padding-top: 4px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="progress">
+            <div style="padding-top: 5px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="progress">
               <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
           <div data-aos="zoom-out" class="skill_item">
             <h4 style=" color: black;">Accounting and Corporate Services <span class="counter">100</span>%</h4>
-            <div style="padding-top: 4px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="progress">
+            <div style="padding-top: 5px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="progress">
               <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
@@ -325,44 +325,44 @@
       </div>
       <div style="margin-top: 50px;" class="row latest_blog_inner">
         <div data-aos="zoom-out" class="col-lg-4">
-          <div class="l_blog_item">
-            <div class="l_blog_img">
-              <img style="width: 300px; height: 200px;" class="img-fluid" src="images/blog/1.png" alt="">
+          <div style="text-align: center;" class="l_blog_item center">
+            <div style="text-align: center;" class="l_blog_img center">
+              <img style="display: inline-block; width: 300px; height: 200px;" class="img-fluid" src="images/blog/1.png" alt="">
             </div>
-            <div class="l_blog_text">
-              <div class="date">
+            <div style="text-align: center;" class="l_blog_text center">
+              <div style="text-align: center;" class="date center">
                 <a href="http://southpointecapital.com/news/2018/10/29/tech-meltdown-pushes-stocks-to-edge-of-correction-markets-wrap/">29 October, 2018  |  By SOUTHPOINTECAPITAL</a>
               </div>
               <a href="http://southpointecapital.com/news/2018/10/29/tech-meltdown-pushes-stocks-to-edge-of-correction-markets-wrap/"><h4>Tech Meltdown Pushes Stocks to Edge of...</h4></a>
-              <p>A rout in technology shares deepened Friday, threatening to push the S&P 500 Index into corrective territory along with the Nasdaq Composite...</p>
+              <p style="text-align: left;">A rout in technology shares deepened Friday, threatening to push the S&P 500 Index into corrective territory along with the Nasdaq Composite...</p>
             </div>
           </div>
         </div>
         <div data-aos="zoom-out" class="col-lg-4">
-          <div class="l_blog_item">
-            <div class="l_blog_img">
+          <div style="text-align: center;" class="l_blog_item center">
+            <div style="text-align: center;" class="l_blog_img center">
               <img style="width: 300px; height: 200px;" class="img-fluid" src="images/blog/2.png" alt="">
             </div>
             <div class="l_blog_text">
-              <div class="date">
+              <div style="text-align: center;" class="date center">
                 <a href="http://southpointecapital.com/news/2018/10/29/u-s-economy-charged-ahead-in-the-third-quarter/">29 October, 2018  |  By SOUTHPOINTECAPITAL</a>
               </div>
               <a href="http://southpointecapital.com/news/2018/10/29/u-s-economy-charged-ahead-in-the-third-quarter/"><h4>U.S. Economy Charged Ahead in the Third...</h4></a>
-              <p>The American economy barreled ahead in the third quarter as consumers stepped up and spent more, keeping it on track for the best...</p>
+              <p style="text-align: left;">The American economy barreled ahead in the third quarter as consumers stepped up and spent more, keeping it on track for the best...</p>
             </div>
           </div>
         </div>
         <div data-aos="zoom-out" class="col-lg-4">
-          <div class="l_blog_item">
-            <div class="l_blog_img">
+          <div style="text-align: center;" class="l_blog_item center">
+            <div style="text-align: center;" class="l_blog_img center">
               <img style="width: 300px; height: 200px;" class="img-fluid" src="images/blog/3.png" alt="">
             </div>
             <div class="l_blog_text">
-              <div class="date">
+              <div style="text-align: center;" class="date center">
                 <a href="http://southpointecapital.com/news/2018/10/29/new-usmca-trade-pact-leaves-u-s-businesses-in-mexico-at-the-mercy-of-countrys-notoriously-corrupt-courts/">29 October, 2018  |  By SOUTHPOINTECAPITAL</a>
               </div>
               <a href="http://southpointecapital.com/news/2018/10/29/new-usmca-trade-pact-leaves-u-s-businesses-in-mexico-at-the-mercy-of-countrys-notoriously-corrupt-courts/"><h4>New USMCA trade pact leaves U.S....</h4></a>
-              <p>The new deal ends key legal protections that the Trump administration had seen as a subsidy for U.S. companies to invest in Mexico...</p>
+              <p style="text-align: left;">The new deal ends key legal protections that the Trump administration had seen as a subsidy for U.S. companies to invest in Mexico...</p>
             </div>
           </div>
         </div>

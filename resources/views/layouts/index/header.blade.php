@@ -45,6 +45,31 @@
         <!-- Menu -->
         <link rel="stylesheet" href="css/menu/menu.css">
 
+        <style>
+            .logo {
+                width: 200px;
+                overflow: hidden;
+                padding-top: 6px;
+            }
+            
+            @media (min-width: 992px) {
+                .logo {
+                width: 250px;
+                overflow: hidden;
+                }
+            }
+
+            .titles {
+                margin-top: 100px !important;
+            }
+            
+            @media (min-width: 992px) {
+                .titles {
+                    margin-top: 325px !important;
+                }
+            }
+        </style>
+
 
     <body style="overflow-x: none;" ng-controller="@yield('controller')">
 
