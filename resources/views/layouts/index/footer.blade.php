@@ -3,7 +3,7 @@
         <footer style="padding-bottom: 0px;" class="footer_area p_120">
         	<div class="container">
         		<div class="row footer_inner">
-        			<div class="col-lg-5 col-sm-6">
+        			<div class="col-lg-5 col-sm-12">
         				<aside class="f_widget ab_widget">
 						<!--
         					<div class="f_title">
@@ -11,21 +11,25 @@
         					</div>
 						-->
         					<a href="/">
-								<img style="width: 250px;" class="hvr-pulse" src="images/logo.png" alt="SOUTHPOINTE CAPITAL" id="logo">
+								<img style="width: 250px;" class="hvr-pulse" src="images/logo_white.png" alt="SOUTHPOINTE CAPITAL" id="logo">
 							</a>
         				</aside>
         			</div>
-        			<div class="col-lg-5 col-sm-6">
+        			<div class="col-lg-5 col-sm-12">
         				<aside class="f_widget news_widget">
         					<div class="f_title">
-        						<h3>Call Us</h3>
+        						<h3>Navigation</h3>
         					</div>
         					<div data-aos="zoom-out" style="text-align: left;">
-								<a style="box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="banner_btn" href="#">Call Us</a>
+								<a style="color: white;" class="" href="#" id="aboutUsMenu2">About Us</a><br>
+								<a style="color: white;" class="" href="/people">People</a><br>
+								<a style="color: white;" class="" href="/portfolio">Portfolio</a><br>
+								<a style="color: white;" class="" href="/news">News</a><br>
+								<a style="color: white;" class="" href="#" id="contactsMenu2">Contact</a>
 							</div>
         				</aside>
         			</div>
-        			<div class="col-lg-2">
+        			<div class="col-lg-2 col-sm-12">
         				<aside class="f_widget social_widget">
         					<div class="f_title">
         						<h3>Follow Me</h3>
@@ -34,8 +38,7 @@
         					<ul class="list">
         						<li><a href="#"><i class="fa fa-facebook"></i></a></li>
         						<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-        						<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-        						<li><a href="#"><i class="fa fa-behance"></i></a></li>
+        						<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
         					</ul>
         				</aside>
         			</div>
@@ -108,7 +111,19 @@
 						'slow');
 				});
 
+                $("#contactsMenu2").click(function() {
+					$('html,body').animate({
+						scrollTop: $("#contacts").offset().top},
+						'slow');
+				});
+
                 $("#aboutUsMenu").click(function() {
+					$('html,body').animate({
+						scrollTop: $("#aboutUs").offset().top},
+						'slow');
+				});
+
+                $("#aboutUsMenu2").click(function() {
 					$('html,body').animate({
 						scrollTop: $("#aboutUs").offset().top},
 						'slow');
