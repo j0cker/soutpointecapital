@@ -40,7 +40,7 @@
         <div class="slide__img">
           <img src="" alt="" data-lazy="images/building1.jpg" class="full-image animated" data-animation-in="zoomInImage"/>
         </div>
-        <div style="background: rgba(255,255,255,.5); width: auto; height: 900px;" class="slide__content center">
+        <div style="" class="slide__content center layer_transparent">
           <div style="background: rgba(255,255,255,.5);" class="slide__content--headings center">
             <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
             <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
@@ -53,7 +53,7 @@
         <div class="slide__img">
           <img src="" alt="" data-lazy="images/building4.jpg" class="full-image animated" data-animation-in="zoomInImage"/>
         </div>
-        <div style="background: rgba(255,255,255,.5); width: auto; height: 900px;" class="slide__content center">
+        <div style="" class="slide__content center layer_transparent">
           <div style="background: rgba(255,255,255,.5);" class="slide__content--headings center">
             <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
             <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
@@ -66,7 +66,7 @@
         <div class="slide__img">
           <img src="" alt="" data-lazy="images/blue1.jpg" class="full-image animated" data-animation-in="zoomInImage"/>
         </div>
-        <div style="background: rgba(255,255,255,.5); width: auto; height: 900px;" class="slide__content center">
+        <div style="" class="slide__content center layer_transparent">
           <div style="background: rgba(255,255,255,.5);" class="slide__content--headings center">
             <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
             <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
@@ -79,7 +79,7 @@
         <div class="slide__img">
           <img src="" alt="" data-lazy="images/building7.jpg" class="full-image animated" data-animation-in="zoomInImage"/>
         </div>
-        <div style="background: rgba(255,255,255,.5); width: auto; height: 900px;" class="slide__content center">
+        <div style="" class="slide__content center layer_transparent">
           <div style="background: rgba(255,255,255,.5);" class="slide__content--headings center">
             <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
             <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
@@ -92,7 +92,7 @@
         <div class="slide__img">
           <img src="" alt="" data-lazy="images/building10.jpg" class="full-image animated" data-animation-in="zoomInImage"/>
         </div>
-        <div style="background: rgba(255,255,255,.5); width: auto; height: 900px;" class="slide__content center">
+        <div style="" class="slide__content center layer_transparent">
           <div style="background: rgba(255,255,255,.5);" class="slide__content--headings center">
             <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
             <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>

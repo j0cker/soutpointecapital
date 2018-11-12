@@ -68,6 +68,20 @@
                     margin-top: 325px !important;
                 }
             }
+
+            .layer_transparent {
+                background: rgba(255,255,255,.5); 
+                width: auto; 
+                height: 700px;
+            }
+
+            @media (min-width: 1100px) {
+                .layer_transparent {
+                    background: rgba(255,255,255,.5); 
+                    width: auto; 
+                    height: 100vh;
+                }
+            }
         </style>
 
 
