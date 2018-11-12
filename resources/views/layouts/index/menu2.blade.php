@@ -1,6 +1,6 @@
 
 <!-- start header -->
-<header id="main-header" data-height-onload="100" data-height-loaded="true" class="" style="position: absolute; background-color: transparent; top: 0px;">
+<header id="main-header" data-height-onload="100" data-height-loaded="true" class="" style="position: absolute; background-color: rgba(255,255,255,0.5); top: 0px;">
     <div class="container clearfix et_menu_container">
     <div data-aos="zoom-out" class="logo_container" style="position: absolute; width: 100%; height: 100%;">
         <span class="logo_helper"></span>

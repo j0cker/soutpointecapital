@@ -42,7 +42,7 @@
         </div>
         <div style="background: rgba(255,255,255,.5); width: auto; height: 900px;" class="slide__content center">
           <div style="background: rgba(255,255,255,.5);" class="slide__content--headings center">
-            <h2 style="padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
+            <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
             <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
             
           </div>
@@ -55,7 +55,7 @@
         </div>
         <div style="background: rgba(255,255,255,.5); width: auto; height: 900px;" class="slide__content center">
           <div style="background: rgba(255,255,255,.5);" class="slide__content--headings center">
-            <h2 style="padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
+            <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
             <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
             
           </div>
@@ -68,7 +68,7 @@
         </div>
         <div style="background: rgba(255,255,255,.5); width: auto; height: 900px;" class="slide__content center">
           <div style="background: rgba(255,255,255,.5);" class="slide__content--headings center">
-            <h2 style="padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
+            <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
             <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
             
           </div>
@@ -81,7 +81,7 @@
         </div>
         <div style="background: rgba(255,255,255,.5); width: auto; height: 900px;" class="slide__content center">
           <div style="background: rgba(255,255,255,.5);" class="slide__content--headings center">
-            <h2 style="padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
+            <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
             <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
             
           </div>
@@ -94,7 +94,7 @@
         </div>
         <div style="background: rgba(255,255,255,.5); width: auto; height: 900px;" class="slide__content center">
           <div style="background: rgba(255,255,255,.5);" class="slide__content--headings center">
-            <h2 style="padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
+            <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
             <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
             
           </div>
@@ -113,7 +113,16 @@
         <div class="col-lg-6">
           <div class="welcome_text">
             <h4 style="color: black;">About Us</h4>
-            <p style="text-align: justify; color: black;">SOUTHPOINTE CAPITAL provides advisory services for companies looking for financial expertise. We work in virtually every industrial sector and in every province in Canada. SOUTHPOINTE CAPITAL has a wide range of clients and is able to provide services to all firms. Our large client base gives us a strong insight into the operation of all business. Vancouver professional financial advisory from business valuation through prospecting for buyers and preparing the company for sale, we can ensure that you present your business in the best possible light.</p>
+            <p style="text-align: justify; color: black; margin-bottom: 18px; padding-bottom: 0;">
+              Southpointe Capital has years of experience providing advisory services for companies looking for financial expertise. We work in virtually every industrial sector and in every province in Canada. 
+            </p>
+            <p style="text-align: justify; color: black; margin-bottom: 18px; padding-bottom: 0;">
+              Southpointe Capital has a wide range of clients and is able to provide services to firms of all structures and sizes. Our large client base gives us a strong insight into the operation of all types of businesses.
+            </p>
+            <p style="text-align: justify; color: black; margin-bottom: 18px; padding-bottom: 0;">
+              We offer professional financial expertise ranging from business valuation through prospecting for buyers and preparing the company for sale or public listing, and we can ensure that you present your business in the best possible light.
+            </p>
+
             <div class="row">
               <div style="margin-bottom: 0; padding-bottom: 20px;" data-aos="zoom-out" class="col-xs-12 col-sm-12 col-md-4">
                 <div style="height: 182px; background-color: white; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="wel_item">
@@ -411,7 +420,7 @@
             <div class="col-md-12">
               For further inquiries, please contact us by filling out the form to the left in full or via the information below and we will respond promptly. We look forward to hearing from you.
               <br><br>
-              <b style=" color: black;">SOUTHPOINTE CAPITAL Services</b> 
+              <b style=" color: black;">SOUTHPOINTE CAPITAL</b> 
 
             </div>
 
@@ -426,6 +435,9 @@
 
                   2727 Paces Ferry Road SE #750<br />
                   Atlanta, GA 30339<br /><br />
+
+                  71-75 Shelton Street, Covent <br />
+                  Garden, London, England, WC2H 9JQ<br /><br />
 
               </div>
 

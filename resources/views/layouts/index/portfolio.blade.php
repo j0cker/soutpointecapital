@@ -42,7 +42,7 @@
       </div>
       <div style="background: rgba(255,255,255,.5); width: 100%; height: 850px;" class="slide__content center">
         <div class="slide__content--headings center">
-          <h2 style="color: black; margin-top: 250px;" class="animated center" data-animation-in="fadeInUp">COOMING SOON</h2>
+          <h2 style="color: black; margin-top: 250px;" class="animated center" data-animation-in="fadeInUp">COMING SOON</h2>
           
         </div>
       </div>
