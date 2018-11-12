@@ -5,7 +5,7 @@
     <div data-aos="zoom-out" class="logo_container" style="position: absolute; width: 100%; height: 100%;">
         <span class="logo_helper"></span>
         <a href="/">
-          <img style="" class="hvr-pulse" src="images/logo.png" alt="SOUTHPOINTE CAPITAL" id="logo">
+          <img style="" class="logo hvr-pulse" src="images/logo.png" alt="SOUTHPOINTE CAPITAL" id="logo">
         </a>
     </div> 
     <div data-aos="zoom-out" id="et-top-navigation" data-height="66" data-fixed-height="60" style="padding-top: 33px; padding-left: 269px;">
