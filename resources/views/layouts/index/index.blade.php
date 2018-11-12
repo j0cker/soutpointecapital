@@ -201,42 +201,42 @@
       <div style="text-align: center;" class="feature_inner row">
 
         <div data-aos="zoom-out" class="col-lg-4 col-md-6 center">
-          <div style="display: inline-block; width: 300px; height: 550px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="feature_item center">
+          <div style="" class="feature_item center cards_columns">
             <i class="lnr lnr-briefcase hvr-float"></i>
             <h4>Financial Advisory</h4>
             <p style="text-align: justify; color: black;">Addressing the corporate finance needs of entrepreneurial firms.</p>
           </div>
         </div>
         <div data-aos="zoom-out" class="col-lg-4 col-md-6 center">
-          <div style="display: inline-block; width: 300px; height: 550px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="feature_item center">
+          <div style="" class="feature_item center cards_columns">
             <i class="flaticon-city hvr-float"></i>
             <h4>Corporate Services</h4>
             <p style="text-align: justify; color: black;">Cost effective, results-based accounting, financial reporting, and corporate services.<br />Standardized solutions offer a only a glimpse of what we can do for your business. To find out how we can address your unique needs, please contact us here.</p>
           </div>
         </div>
         <div data-aos="zoom-out" class="col-lg-4 col-md-6 center">
-          <div style="display: inline-block; width: 300px; height: 550px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="feature_item center">
+          <div style="" class="feature_item center cards_columns">
             <i class="fa fa-trophy hvr-float"></i>
             <h4>Acquisition</h4>
             <p style="text-align: justify; color: black;">We will work with you to identify potential acquisitions, conduct due diligence, participate in negotiations and structuring and assist in sourcing funds to complete the deal.</p>
           </div>
         </div>
         <div data-aos="zoom-out" class="col-lg-4 col-md-6 center">
-          <div style="display: inline-block; width: 300px; height: 550px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="feature_item center">
+          <div style="" class="feature_item center cards_columns">
             <i class="fa fa-money hvr-float"></i>
             <h4>Valuations</h4>
             <p style="text-align: justify; color: black;">We provide valuation services for business interests relating to ownership succession, public transactions, shareholder disputes, estate planning, and income tax.</p>
           </div>
         </div>
         <div data-aos="zoom-out" class="col-lg-4 col-md-6 center">
-          <div style="display: inline-block; width: 300px; height: 550px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="feature_item center">
+          <div style="" class="feature_item center cards_columns">
             <i class="fa fa-area-chart hvr-float"></i>
             <h4>Capital Requirements & Restructuring</h4>
             <p style="text-align: justify; color: black;">Whether you’re looking to maximize cash flow, renegotiate your bank credit facility, reorganize your corporation, find an optional capital structure or raise additional capital through private placements, initial public offerings, or reverse mergers.</p>
           </div>
         </div>
         <div data-aos="zoom-out" class="col-lg-4 col-md-6 center">
-          <div style="display: inline-block; width: 300px; height: 550px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="feature_item center">
+          <div style="" class="feature_item center cards_columns">
             <i class="lnr lnr-apartment hvr-float"></i>
             <h4>Accounting and Corporate Services</h4>
             <p style="text-align: justify; color: black;">We thrive on bringing financial information together – numbers, books, and plans for the future. trust us to pull together your financial results, present them professionally in easily readable formats, and give you the specific information you need to make smart business decisions, fast.</p>

@@ -32,6 +32,8 @@ body {
     -webkit-animation-duration: 3s;
     animation-duration: 3s;
     transition: all 1s ease;
+    display: inline-block;
+    text-align: center;
 }
 
 .slide .slide__content {
