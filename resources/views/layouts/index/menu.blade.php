@@ -12,7 +12,7 @@
         <nav>
         <ul style="padding-bottom: 33px;" id="top-menu" class="nav">
             <li id="menu-item-229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-229">
-              <a id="aboutUsMenu" style="background-color: transparent; color: black;" href="#">ABOUT US</a>
+              <a class="aboutUsMenu" style="background-color: transparent; color: black;">ABOUT US</a>
             </li>
             <li id="menu-item-229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-229">
               <a style="background-color: transparent; color: black;" href="/people">PEOPLE</a>
@@ -24,7 +24,7 @@
               <a style="background-color: transparent; color: black;" href="/news">NEWS</a>
             </li>
             <li id="menu-item-255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255">
-              <a id="contactsMenu" style="background-color: transparent; color: black;" href="#">CONTACT</a>
+              <a class="contactsMenu" style="background-color: transparent; color: black;">CONTACT</a>
             </li>
         </ul>
         </nav>

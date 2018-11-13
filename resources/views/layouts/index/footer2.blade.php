@@ -105,25 +105,15 @@
 		
         <script>
             $( document ).ready(function() {
-                $("#contactsMenu").click(function() {
+                $(".contactsMenu").click(function() {
+					console.log("Click");
 					$('html,body').animate({
 						scrollTop: $("#contacts").offset().top},
 						'slow');
 				});
 
-                $("#contactsMenu2").click(function() {
-					$('html,body').animate({
-						scrollTop: $("#contacts").offset().top},
-						'slow');
-				});
-
-                $("#aboutUsMenu").click(function() {
-					$('html,body').animate({
-						scrollTop: $("#aboutUs").offset().top},
-						'slow');
-				});
-
-                $("#aboutUsMenu2").click(function() {
+                $(".aboutUsMenu").click(function() {
+					console.log("Click");
 					$('html,body').animate({
 						scrollTop: $("#aboutUs").offset().top},
 						'slow');

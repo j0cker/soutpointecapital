@@ -21,11 +21,11 @@
         						<h3>Navigation</h3>
         					</div>
         					<div data-aos="zoom-out" style="text-align: left;">
-								<a style="color: white;" class="" href="#" id="aboutUsMenu2">About Us</a><br>
+								<a style="color: white;" class="aboutUsMenu">About Us</a><br>
 								<a style="color: white;" class="" href="/people">People</a><br>
 								<a style="color: white;" class="" href="/portfolio">Portfolio</a><br>
 								<a style="color: white;" class="" href="/news">News</a><br>
-								<a style="color: white;" class="" href="#" id="contactsMenu2">Contact</a>
+								<a style="color: white;" class="contactsMenu">Contact</a>
 							</div>
         				</aside>
         			</div>
@@ -105,25 +105,15 @@
 		
         <script>
             $( document ).ready(function() {
-                $("#contactsMenu").click(function() {
+                $(".contactsMenu").click(function() {
+					console.log("Click");
 					$('html,body').animate({
 						scrollTop: $("#contacts").offset().top},
 						'slow');
 				});
 
-                $("#contactsMenu2").click(function() {
-					$('html,body').animate({
-						scrollTop: $("#contacts").offset().top},
-						'slow');
-				});
-
-                $("#aboutUsMenu").click(function() {
-					$('html,body').animate({
-						scrollTop: $("#aboutUs").offset().top},
-						'slow');
-				});
-
-                $("#aboutUsMenu2").click(function() {
+                $(".aboutUsMenu").click(function() {
+					console.log("Click");
 					$('html,body').animate({
 						scrollTop: $("#aboutUs").offset().top},
 						'slow');

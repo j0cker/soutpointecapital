@@ -328,55 +328,88 @@
 
   <!--================Latest Blog Area =================-->
   <section style="background-color: #DDD;" class="latest_blog_area p_120">
+
     <div class="container">
+
       <div class="main_title">
-        <h2>NEWS</h2>
+        <h2>RECENT NEWS</h2>
       </div>
+
       <div style="margin-top: 50px;" class="row latest_blog_inner">
+
         <div data-aos="zoom-out" class="col-lg-4">
+
           <div style="text-align: center;" class="l_blog_item center">
+            
+            <div class="l_blog_text">
+              <a href="http://southpointecapital.com/news/2018/10/29/tech-meltdown-pushes-stocks-to-edge-of-correction-markets-wrap/"><h4>Tech Meltdown Pushes Stocks to Edge of...</h4></a>
+            </div>
+
             <div style="text-align: center;" class="l_blog_img center">
               <img style="display: inline-block; width: 300px; height: 200px;" class="img-fluid" src="images/blog/1.png" alt="">
             </div>
+
             <div style="text-align: center;" class="l_blog_text center">
               <div style="text-align: center;" class="date center">
-                <a href="http://southpointecapital.com/news/2018/10/29/tech-meltdown-pushes-stocks-to-edge-of-correction-markets-wrap/">29 October, 2018  |  By SOUTHPOINTECAPITAL</a>
+                <a href="http://southpointecapital.com/news/2018/10/29/tech-meltdown-pushes-stocks-to-edge-of-correction-markets-wrap/">29 October, 2018</a>
               </div>
-              <a href="http://southpointecapital.com/news/2018/10/29/tech-meltdown-pushes-stocks-to-edge-of-correction-markets-wrap/"><h4>Tech Meltdown Pushes Stocks to Edge of...</h4></a>
               <p style="text-align: left;">A rout in technology shares deepened Friday, threatening to push the S&P 500 Index into corrective territory along with the Nasdaq Composite...</p>
             </div>
+
           </div>
+
         </div>
+
         <div data-aos="zoom-out" class="col-lg-4">
+
           <div style="text-align: center;" class="l_blog_item center">
+            
+            <div class="l_blog_text">
+                <a href="http://southpointecapital.com/news/2018/10/29/u-s-economy-charged-ahead-in-the-third-quarter/"><h4>U.S. Economy Charged Ahead in the Third...</h4></a>
+            </div>
+
             <div style="text-align: center;" class="l_blog_img center">
               <img style="width: 300px; height: 200px;" class="img-fluid" src="images/blog/2.png" alt="">
             </div>
+
             <div class="l_blog_text">
               <div style="text-align: center;" class="date center">
-                <a href="http://southpointecapital.com/news/2018/10/29/u-s-economy-charged-ahead-in-the-third-quarter/">29 October, 2018  |  By SOUTHPOINTECAPITAL</a>
+                <a href="http://southpointecapital.com/news/2018/10/29/u-s-economy-charged-ahead-in-the-third-quarter/">29 October, 2018</a>
               </div>
-              <a href="http://southpointecapital.com/news/2018/10/29/u-s-economy-charged-ahead-in-the-third-quarter/"><h4>U.S. Economy Charged Ahead in the Third...</h4></a>
               <p style="text-align: left;">The American economy barreled ahead in the third quarter as consumers stepped up and spent more, keeping it on track for the best...</p>
             </div>
+
           </div>
+
         </div>
+
         <div data-aos="zoom-out" class="col-lg-4">
+
           <div style="text-align: center;" class="l_blog_item center">
+            
+            <div class="l_blog_text">
+              <a href="http://southpointecapital.com/news/2018/10/29/new-usmca-trade-pact-leaves-u-s-businesses-in-mexico-at-the-mercy-of-countrys-notoriously-corrupt-courts/"><h4>New USMCA trade pact leaves U.S....</h4></a>
+            </div>
+
             <div style="text-align: center;" class="l_blog_img center">
               <img style="width: 300px; height: 200px;" class="img-fluid" src="images/blog/3.png" alt="">
             </div>
+
             <div class="l_blog_text">
               <div style="text-align: center;" class="date center">
-                <a href="http://southpointecapital.com/news/2018/10/29/new-usmca-trade-pact-leaves-u-s-businesses-in-mexico-at-the-mercy-of-countrys-notoriously-corrupt-courts/">29 October, 2018  |  By SOUTHPOINTECAPITAL</a>
+                <a href="http://southpointecapital.com/news/2018/10/29/new-usmca-trade-pact-leaves-u-s-businesses-in-mexico-at-the-mercy-of-countrys-notoriously-corrupt-courts/">29 October, 2018</a>
               </div>
-              <a href="http://southpointecapital.com/news/2018/10/29/new-usmca-trade-pact-leaves-u-s-businesses-in-mexico-at-the-mercy-of-countrys-notoriously-corrupt-courts/"><h4>New USMCA trade pact leaves U.S....</h4></a>
               <p style="text-align: left;">The new deal ends key legal protections that the Trump administration had seen as a subsidy for U.S. companies to invest in Mexico...</p>
             </div>
+
           </div>
+
         </div>
+
       </div>
+
     </div>
+
   </section>
   <!--================End Latest Blog Area =================-->
 
