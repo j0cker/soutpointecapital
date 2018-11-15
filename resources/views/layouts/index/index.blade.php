@@ -342,11 +342,15 @@
           <div style="text-align: center;" class="l_blog_item center">
             
             <div class="l_blog_text">
-              <a href="http://southpointecapital.com/news/2018/10/29/tech-meltdown-pushes-stocks-to-edge-of-correction-markets-wrap/"><h4>Tech Meltdown Pushes Stocks to Edge of...</h4></a>
+              <a href="http://southpointecapital.com/news/2018/10/29/tech-meltdown-pushes-stocks-to-edge-of-correction-markets-wrap/">
+                <h4>Tech Meltdown Pushes Stocks to Edge of...</h4>
+              </a>
             </div>
 
             <div style="text-align: center;" class="l_blog_img center">
-              <img style="display: inline-block; width: 300px; height: 200px;" class="img-fluid" src="images/blog/1.png" alt="">
+              <a href="http://southpointecapital.com/news/2018/10/29/tech-meltdown-pushes-stocks-to-edge-of-correction-markets-wrap/">
+                <img style="display: inline-block; width: 300px; height: 200px;" class="img-fluid" src="images/blog/1.png" alt="">
+              </a>
             </div>
 
             <div style="text-align: center;" class="l_blog_text center">
@@ -369,7 +373,9 @@
             </div>
 
             <div style="text-align: center;" class="l_blog_img center">
-              <img style="width: 300px; height: 200px;" class="img-fluid" src="images/blog/2.png" alt="">
+              <a href="http://southpointecapital.com/news/2018/10/29/u-s-economy-charged-ahead-in-the-third-quarter/">
+                <img style="display: inline-block; width: 300px; height: 200px;" class="img-fluid" src="images/blog/2.png" alt="">
+              </a>
             </div>
 
             <div class="l_blog_text">
@@ -392,7 +398,9 @@
             </div>
 
             <div style="text-align: center;" class="l_blog_img center">
-              <img style="width: 300px; height: 200px;" class="img-fluid" src="images/blog/3.png" alt="">
+              <a href="http://southpointecapital.com/news/2018/10/29/new-usmca-trade-pact-leaves-u-s-businesses-in-mexico-at-the-mercy-of-countrys-notoriously-corrupt-courts/">
+                <img style="display: inline-block; width: 300px; height: 200px;" class="img-fluid" src="images/blog/3.png" alt="">
+              </a>
             </div>
 
             <div class="l_blog_text">

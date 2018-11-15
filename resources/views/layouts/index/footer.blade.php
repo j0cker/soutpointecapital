@@ -43,7 +43,7 @@
         				</aside>
         			</div>
         		</div>
-        		<div style="padding-bottom: 50px; color: white; margin-top: 50px; text-align: center;" class="row footer_inner center">
+        		<div style="padding-bottom: 50px; color: white; margin-top: 50px; text-align: center;" class="row center">
 					© 2018 SOUTHPOINTECAPITAL. All Rights Reserved.
 				</div>
         	</div>
