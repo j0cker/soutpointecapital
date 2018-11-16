@@ -6,7 +6,7 @@
 // Init slick slider + animation
 $('.slider').slick({
     autoplay: true,
-    speed: 2000,
+    speed: 2500,
     lazyLoad: 'progressive',
     arrows: false,
     dots: true,
