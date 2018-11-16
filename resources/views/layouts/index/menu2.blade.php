@@ -12,19 +12,19 @@
         <nav>
         <ul style="padding-bottom: 33px;" id="top-menu" class="nav">
             <li id="menu-item-229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-229">
-              <a style="background-color: transparent; color: black;" href="/?go=aboutUsMenu">ABOUT US</a>
+              <a style="cursor: pointer !important; background-color: transparent; color: black;" href="/?go=aboutUsMenu">ABOUT US</a>
             </li>
             <li id="menu-item-229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-229">
-              <a style="background-color: transparent; color: black;" href="/people">PEOPLE</a>
+              <a style="cursor: pointer !important; background-color: transparent; color: black;" href="/people">PEOPLE</a>
             </li>
             <li id="menu-item-255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255">
-              <a style="background-color: transparent; color: black;" href="/portfolio">PORTFOLIO</a>
+              <a style="cursor: pointer !important; background-color: transparent; color: black;" href="/portfolio">PORTFOLIO</a>
             </li>
             <li id="menu-item-255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255">
-              <a style="background-color: transparent; color: black;" href="/news">NEWS</a>
+              <a style="cursor: pointer !important; background-color: transparent; color: black;" href="/news">NEWS</a>
             </li>
             <li id="menu-item-255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255">
-              <a style="background-color: transparent; color: black;" href="/?go=contactsMenu">CONTACT</a>
+              <a style="cursor: pointer !important; background-color: transparent; color: black;" href="/?go=contactsMenu">CONTACT</a>
             </li>
         </ul>
         </nav>
