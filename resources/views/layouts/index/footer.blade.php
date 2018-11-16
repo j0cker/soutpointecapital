@@ -2,7 +2,10 @@
         <!--================Footer Area =================-->
         <footer style="padding-left: 30px; padding-right: 30px;" class="footer_area p_120">
         		<div class="row footer_inner">
-        			<div class="col-lg-3 col-sm-12">
+
+					<div class="col-lg-2"></div>
+
+        			<div class="col-lg-2 col-sm-12">
         				<aside class="f_widget ab_widget">
 						<!--
         					<div class="f_title">
@@ -15,6 +18,9 @@
 						
         				</aside>
         			</div>
+
+					<div class="col-lg-1"></div>
+
         			<div class="col-lg-3 col-sm-12">
         				<aside class="f_widget news_widget">
         					<div class="f_title">
@@ -29,6 +35,7 @@
 							</div>
         				</aside>
         			</div>
+					<!--
         			<div class="col-lg-3 col-sm-12">
         				<aside class="f_widget social_widget">
         					<div class="f_title">
@@ -42,8 +49,8 @@
         					</ul>
         				</aside>
         			</div>
-
-        			<div class="col-lg-3 col-sm-12">
+					-->
+        			<div class="col-lg-4 col-sm-12">
         				<aside class="f_widget news_widget">
         					<div class="f_title">
         						<h3>Contact Info</h3>
