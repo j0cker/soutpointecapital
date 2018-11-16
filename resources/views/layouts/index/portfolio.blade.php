@@ -34,21 +34,21 @@
   <!--================Home Banner Area =================-->
   <section>
 
-  <div class="slider stick-dots">
+    <div class="slider stick-dots">
 
-    <div class="slide">
-      <div class="slide__img" style="height: 850px !important;">
-        <img src="" alt="" data-lazy="images/mountains.jpg" class="full-image animated" data-animation-in="zoomInImage"/>
-      </div>
-      <div style="background: rgba(255,255,255,.5); width: 100%; height: 850px;" class="slide__content center">
-        <div class="slide__content--headings center">
-          <h2 style="color: black; margin-top: 250px;" class="animated center" data-animation-in="fadeInUp">COMING SOON</h2>
-          
+      <div class="slide">
+        <div class="slide__img">
+          <img src="" alt="" data-lazy="images/mountains.jpg" class="full-image animated" data-animation-in="zoomInImage"/>
+        </div>
+        <div style="background: rgba(255,255,255,.5); width: 100%;" class="slide__content center layer_transparent">
+          <div class="slide__content--headings center">
+            <h2 style="color: black;" class="animated center titles" data-animation-in="fadeInUp">COMING SOON</h2>
+            
+          </div>
         </div>
       </div>
-    </div>
 
-  </div>
+    </div>
 
 </section>
   <!--================End Home Banner Area =================-->

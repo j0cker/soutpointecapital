@@ -55,7 +55,7 @@
         					<div class="f_title">
         						<h3>Contact Info</h3>
         					</div>
-        					<div data-aos="zoom-out" style="text-align: left;">
+        					<div style="text-align: left;">
 
 								<a style="color: white;" class="aboutUsMenu">info@southpointecapital.com</a><br><br>
 
