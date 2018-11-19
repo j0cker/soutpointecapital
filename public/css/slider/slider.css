@@ -65,10 +65,8 @@ body {
 }
 
 .slider [data-animation-in] {
-    opacity: 0;
     -webkit-animation-duration: 1.5s;
     animation-duration: 1.5s;
-    transition: opacity 0.5s ease 0.3s;
 }
 
 .slick-dotted .slick-slider {
