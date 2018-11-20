@@ -3,9 +3,7 @@
         <footer style="padding-left: 30px; padding-right: 30px;" class="footer_area p_120">
 			<div class="row footer_inner">
 
-				<div class="col-lg-2"></div>
-
-				<div class="col-lg-2 col-sm-12">
+				<div class="col-lg-3 col-sm-12">
 					<aside class="f_widget ab_widget">
 					<!--
 						<div class="f_title">
@@ -18,8 +16,6 @@
 
 					</aside>
 				</div>
-
-				<div class="col-lg-1"></div>
 
 				<div class="col-lg-3 col-sm-12">
 					<aside class="f_widget news_widget">
@@ -35,37 +31,44 @@
 						</div>
 					</aside>
 				</div>
-
-				<!--
-
-				<div class="col-lg-4 col-sm-12">
+					
+				<div class="col-lg-3 col-sm-12">
 					<aside class="f_widget social_widget">
 						<div class="f_title">
-							<h3>Follow Me</h3>
+							<h3>Subscribe to News</h3>
 						</div>
-						<p>Let us be social</p>
-						<ul class="list">
-							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-							<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-						</ul>
+						<form action="http://southpointecapital.com/news/" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-3" class="form-group">
+							<p id="subscribe-email" class="form-group">
+								<label id="jetpack-subscribe-label" for="subscribe-field-blog_subscription-3" style="color: white; clip: rect(1px, 1px, 1px, 1px); position: absolute; height: 1px; width: 1px; overflow: hidden;">
+									Email Address						
+								</label>
+								<input style="width: 300px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" type="email" name="email" required="required" class="required form-control" value="" id="subscribe-field-blog_subscription-3" placeholder="Email Address">
+							</p>
+
+							<p id="subscribe-submit">
+								<input type="hidden" name="action" value="subscribe">
+								<input type="hidden" name="source" value="http://southpointecapital.com/news/?customize_changeset_uuid=3a080baf-e5af-45b9-8430-0664bd143be7">
+								<input type="hidden" name="sub-type" value="widget">
+								<input type="hidden" name="redirect_fragment" value="blog_subscription-3">
+								<input type="hidden" id="_wpnonce" name="_wpnonce" value="bfbc1aa4fe">						
+								<input style="border: 0;" class="banner_btn" type="submit" value="Subscribe" name="jetpack_subscriptions_widget">
+							</p>
+						</form>
 					</aside>
 				</div>
 
-				-->
-
-				<div class="col-lg-4 col-sm-12">
+				<div class="col-lg-3 col-sm-12">
 					<aside class="f_widget news_widget">
 						<div class="f_title">
 							<h3>Contact Info</h3>
 						</div>
 						<div style="text-align: left;">
 
-							<a style="color: white;" class="aboutUsMenu">info@southpointecapital.com</a><br><br>
+							<a style="color: white;" class="aboutUsMenu">info@southpointecapital.com</a><br>
 
-							<a style="color: white;" class="aboutUsMenu">101 South Reid Street #307 Sioux Falls, SD 57103</a><br><br>
+							<a style="color: white;" class="aboutUsMenu">101 South Reid Street #307 Sioux Falls, SD 57103</a><br>
 
-							<a style="color: white;" class="aboutUsMenu">2727 Paces Ferry Road SE #750 Atlanta, GA 30339</a><br><br>
+							<a style="color: white;" class="aboutUsMenu">2727 Paces Ferry Road SE #750 Atlanta, GA 30339</a><br>
 
 							<a style="color: white;" class="aboutUsMenu">71-75 Shelton Street, Covent Garden, London, England, WC2H 9JQ</a><br>
 							
@@ -74,7 +77,7 @@
 				</div>
 
 			</div>
-			<div style="padding-bottom: 50px; color: white; margin-top: 50px; text-align: center;" class="row center">
+			<div style="padding-bottom: 50px; color: white; margin-top: 100px; text-align: center;" class="row center">
 				© 2018 SOUTHPOINTECAPITAL. All Rights Reserved.
 			</div>
         </footer>
