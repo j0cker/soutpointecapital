@@ -43,7 +43,7 @@
                         if (response.data.success == "TRUE") {
                             console.log("[IndexCtrl][postMessage]");
 
-                            toastr["success"]("Thank you! Your message <br />has been successfully sent.”", "");
+                            toastr["success"]("Thank you! Your message <br />has been successfully sent.", "");
                             functions.loadingEndWait();
 
                         } else {
