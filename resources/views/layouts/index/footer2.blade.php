@@ -42,7 +42,7 @@
 								<label id="jetpack-subscribe-label" for="subscribe-field-blog_subscription-3" style="color: white; clip: rect(1px, 1px, 1px, 1px); position: absolute; height: 1px; width: 1px; overflow: hidden;">
 									Email Address						
 								</label>
-								<input style="width: 300px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" type="email" name="email" required="required" class="required form-control" value="" id="subscribe-field-blog_subscription-3" placeholder="Email Address">
+								<input style="min-width: 200px; max-width: 270px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" type="email" name="email" required="required" class="required form-control" value="" id="subscribe-field-blog_subscription-3" placeholder="Email Address">
 							</p>
 
 							<p id="subscribe-submit">
