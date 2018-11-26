@@ -93,7 +93,7 @@
                 display: block !important;
                 vertical-align: middle !important;
                 width: 100%;
-                top: 40% !important;
+                top: 35% !important;
             }
             
             @media (min-width: 992px) {
