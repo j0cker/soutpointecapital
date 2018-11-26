@@ -64,7 +64,7 @@
 						</div>
 						<div style="text-align: left;">
 
-							<a style="color: white;" class="aboutUsMenu">info@southpointecapital.com</a><br>
+							<a style="color: white;" class="aboutUsMenu" href="mailto:&#105;&#110;&#102;&#111;&#64;&#115;&#111;&#117;&#116;&#104;&#112;&#111;&#105;&#110;&#116;&#101;&#99;&#97;&#112;&#105;&#116;&#97;&#108;&#46;&#99;&#111;&#109;">&#105;&#110;&#102;&#111;&#64;&#115;&#111;&#117;&#116;&#104;&#112;&#111;&#105;&#110;&#116;&#101;&#99;&#97;&#112;&#105;&#116;&#97;&#108;&#46;&#99;&#111;&#109;</a><br>
 
 							<a style="color: white;" class="aboutUsMenu">101 South Reid Street #307 Sioux Falls, SD 57103</a><br>
 

@@ -41,10 +41,19 @@
           <img src="" alt="" data-lazy="images/building1.jpg" class="full-image animated" data-animation-in="zoomInImage"/>
         </div>
         <div style="" class="slide__content center layer_transparent">
-          <div style="background: rgba(255,255,255,.5);" class="slide__content--headings center">
-            <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
-            <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center subtitles" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
-            
+          <div class="slide__content--headings center">
+
+            <div class="container-title">
+                <div class="helper-title-slider">
+                    <div style="background: rgba(255,255,255,.5);" class="content-title">
+
+                      <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
+                      <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center subtitles" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
+              
+                    </div>
+                </div>
+            </div>
+
           </div>
         </div>
       </div>
@@ -54,10 +63,19 @@
           <img src="" alt="" data-lazy="images/building4.jpg" class="full-image animated" data-animation-in="zoomInImage"/>
         </div>
         <div style="" class="slide__content center layer_transparent">
-          <div style="background: rgba(255,255,255,.5);" class="slide__content--headings center">
-            <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
-            <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center subtitles" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
-            
+          <div class="slide__content--headings center">
+
+            <div class="container-title">
+                <div class="helper-title-slider">
+                    <div style="background: rgba(255,255,255,.5);" class="content-title">
+
+                      <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
+                      <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center subtitles" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
+              
+                    </div>
+                </div>
+            </div>
+
           </div>
         </div>
       </div>
@@ -67,10 +85,19 @@
           <img src="" alt="" data-lazy="images/blue1.jpg" class="full-image animated" data-animation-in="zoomInImage"/>
         </div>
         <div style="" class="slide__content center layer_transparent">
-          <div style="background: rgba(255,255,255,.5);" class="slide__content--headings center">
-            <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
-            <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center subtitles" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
-            
+          <div class="slide__content--headings center">
+
+            <div class="container-title">
+                <div class="helper-title-slider">
+                    <div style="background: rgba(255,255,255,.5);" class="content-title">
+
+                      <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
+                      <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center subtitles" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
+              
+                    </div>
+                </div>
+            </div>
+
           </div>
         </div>
       </div>
@@ -80,10 +107,19 @@
           <img src="" alt="" data-lazy="images/building7.jpg" class="full-image animated" data-animation-in="zoomInImage"/>
         </div>
         <div style="" class="slide__content center layer_transparent">
-          <div style="background: rgba(255,255,255,.5);" class="slide__content--headings center">
-            <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
-            <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center subtitles" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
-            
+          <div class="slide__content--headings center">
+
+            <div class="container-title">
+                <div class="helper-title-slider">
+                    <div style="background: rgba(255,255,255,.5);" class="content-title">
+
+                      <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
+                      <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center subtitles" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
+              
+                    </div>
+                </div>
+            </div>
+
           </div>
         </div>
       </div>
@@ -93,10 +129,19 @@
           <img src="" alt="" data-lazy="images/building10.jpg" class="full-image animated" data-animation-in="zoomInImage"/>
         </div>
         <div style="" class="slide__content center layer_transparent">
-          <div style="background: rgba(255,255,255,.5);" class="slide__content--headings center">
-            <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
-            <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center subtitles" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
-            
+          <div style="" class="slide__content--headings center">
+
+            <div class="container-title">
+                <div class="helper-title-slider">
+                    <div style="background: rgba(255,255,255,.5);" class="content-title">
+
+                      <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
+                      <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center subtitles" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
+              
+                    </div>
+                </div>
+            </div>
+
           </div>
         </div>
       </div>
@@ -204,42 +249,42 @@
           <div style="" class="feature_item center cards_columns">
             <i class="lnr lnr-briefcase hvr-float"></i>
             <h4>Financial Advisory</h4>
-            <p style="text-align: justify; color: black;">Addressing the corporate finance needs of entrepreneurial firms.</p>
+            <p style="text-align: left; color: black;">Addressing the corporate finance needs of entrepreneurial firms.</p>
           </div>
         </div>
         <div data-aos="zoom-out" class="col-lg-4 col-md-6 center">
           <div style="" class="feature_item center cards_columns">
             <i class="flaticon-city hvr-float"></i>
             <h4>Corporate Services</h4>
-            <p style="text-align: justify; color: black;">Cost effective, results-based accounting, financial reporting, and corporate services.<br />Standardized solutions offer a only a glimpse of what we can do for your business. To find out how we can address your unique needs, please contact us here.</p>
+            <p style="text-align: left; color: black;">Cost effective, results-based accounting, financial reporting, and corporate services.<br />Standardized solutions offer a only a glimpse of what we can do for your business. To find out how we can address your unique needs, please contact us here.</p>
           </div>
         </div>
         <div data-aos="zoom-out" class="col-lg-4 col-md-6 center">
           <div style="" class="feature_item center cards_columns">
             <i class="fa fa-trophy hvr-float"></i>
             <h4>Acquisition</h4>
-            <p style="text-align: justify; color: black;">We will work with you to identify potential acquisitions, conduct due diligence, participate in negotiations and structuring and assist in sourcing funds to complete the deal.</p>
+            <p style="text-align: left; color: black;">We will work with you to identify potential acquisitions, conduct due diligence, participate in negotiations and structuring and assist in sourcing funds to complete the deal.</p>
           </div>
         </div>
         <div data-aos="zoom-out" class="col-lg-4 col-md-6 center">
           <div style="" class="feature_item center cards_columns">
             <i class="fa fa-money hvr-float"></i>
             <h4>Valuations</h4>
-            <p style="text-align: justify; color: black;">We provide valuation services for business interests relating to ownership succession, public transactions, shareholder disputes, estate planning, and income tax.</p>
+            <p style="text-align: left; color: black;">We provide valuation services for business interests relating to ownership succession, public transactions, shareholder disputes, estate planning, and income tax.</p>
           </div>
         </div>
         <div data-aos="zoom-out" class="col-lg-4 col-md-6 center">
           <div style="" class="feature_item center cards_columns">
             <i class="fa fa-area-chart hvr-float"></i>
             <h4>Capital Requirements & Restructuring</h4>
-            <p style="text-align: justify; color: black;">Whether you’re looking to maximize cash flow, renegotiate your bank credit facility, reorganize your corporation, find an optional capital structure or raise additional capital through private placements, initial public offerings, or reverse mergers.</p>
+            <p style="text-align: left; color: black;">Whether you’re looking to maximize cash flow, renegotiate your bank credit facility, reorganize your corporation, find an optional capital structure or raise additional capital through private placements, initial public offerings, or reverse mergers.</p>
           </div>
         </div>
         <div data-aos="zoom-out" class="col-lg-4 col-md-6 center">
           <div style="" class="feature_item center cards_columns">
             <i class="lnr lnr-apartment hvr-float"></i>
             <h4>Accounting and Corporate Services</h4>
-            <p style="text-align: justify; color: black;">We thrive on bringing financial information together – numbers, books, and plans for the future. trust us to pull together your financial results, present them professionally in easily readable formats, and give you the specific information you need to make smart business decisions, fast.</p>
+            <p style="text-align: left; color: black;">We thrive on bringing financial information together – numbers, books, and plans for the future. trust us to pull together your financial results, present them professionally in easily readable formats, and give you the specific information you need to make smart business decisions, fast.</p>
           </div>
         </div>
 
@@ -342,22 +387,22 @@
           <div style="text-align: center;" class="l_blog_item center">
             
             <div class="l_blog_text">
-              <a href="http://southpointecapital.com/news/2018/10/29/tech-meltdown-pushes-stocks-to-edge-of-correction-markets-wrap/">
-                <h4>Tech Meltdown Pushes Stocks to Edge of...</h4>
+              <a href="http://southpointecapital.com/news/2018/11/20/annual-pace-of-housing-starts-picked-up-in-october-topping-economists-expectations/">
+                <h4>Annual pace of housing starts picked up...</h4>
               </a>
             </div>
 
             <div style="text-align: center;" class="l_blog_img center">
-              <a href="http://southpointecapital.com/news/2018/10/29/tech-meltdown-pushes-stocks-to-edge-of-correction-markets-wrap/">
-                <img style="display: inline-block; width: 300px; height: 200px;" class="img-fluid" src="images/blog/1.png" alt="">
+              <a href="http://southpointecapital.com/news/2018/11/20/annual-pace-of-housing-starts-picked-up-in-october-topping-economists-expectations/">
+                <img style="display: inline-block; width: 300px; height: 200px;" class="img-fluid" src="images/blog/4.jpg" alt="">
               </a>
             </div>
 
             <div style="text-align: center;" class="l_blog_text center">
               <div style="text-align: center;" class="date center">
-                <a href="http://southpointecapital.com/news/2018/10/29/tech-meltdown-pushes-stocks-to-edge-of-correction-markets-wrap/">29 October, 2018</a>
+                <a href="http://southpointecapital.com/news/2018/11/20/annual-pace-of-housing-starts-picked-up-in-october-topping-economists-expectations/">20 November, 2018</a>
               </div>
-              <p style="text-align: left;">A rout in technology shares deepened Friday, threatening to push the S&P 500 Index into corrective territory along with the Nasdaq Composite...</p>
+              <p style="text-align: left;">The increase came as the annual pace of urban starts climbed by 8.6 per cent in October to 191,964 units....</p>
             </div>
 
           </div>
@@ -369,20 +414,21 @@
           <div style="text-align: center;" class="l_blog_item center">
             
             <div class="l_blog_text">
-                <a href="http://southpointecapital.com/news/2018/10/29/u-s-economy-charged-ahead-in-the-third-quarter/"><h4>U.S. Economy Charged Ahead in the Third...</h4></a>
+                <a href="http://southpointecapital.com/news/2018/11/20/canadian-business-groups-have-called-on-prime-minister-justin-trudeau-to-address-weakening-competitiveness-canadian-prime-minister-justin-trudeau-meets-with-chinese-premier-li-keqiang-before-the-cana/">
+                <h4>‘Be more entrepreneurial’: Chance for...</h4></a>
             </div>
 
             <div style="text-align: center;" class="l_blog_img center">
-              <a href="http://southpointecapital.com/news/2018/10/29/u-s-economy-charged-ahead-in-the-third-quarter/">
-                <img style="display: inline-block; width: 300px; height: 200px;" class="img-fluid" src="images/blog/2.png" alt="">
+              <a href="http://southpointecapital.com/news/2018/11/20/canadian-business-groups-have-called-on-prime-minister-justin-trudeau-to-address-weakening-competitiveness-canadian-prime-minister-justin-trudeau-meets-with-chinese-premier-li-keqiang-before-the-cana/">
+                <img style="display: inline-block; width: 300px; height: 200px;" class="img-fluid" src="images/blog/5.jpg" alt="">
               </a>
             </div>
 
             <div class="l_blog_text">
               <div style="text-align: center;" class="date center">
-                <a href="http://southpointecapital.com/news/2018/10/29/u-s-economy-charged-ahead-in-the-third-quarter/">29 October, 2018</a>
+                <a href="http://southpointecapital.com/news/2018/11/20/canadian-business-groups-have-called-on-prime-minister-justin-trudeau-to-address-weakening-competitiveness-canadian-prime-minister-justin-trudeau-meets-with-chinese-premier-li-keqiang-before-the-cana/">20 November, 2018</a>
               </div>
-              <p style="text-align: left;">The American economy barreled ahead in the third quarter as consumers stepped up and spent more, keeping it on track for the best...</p>
+              <p style="text-align: left;">Canada should take advantage of fraught relations between the U.S. and nations including China to lure capital....</p>
             </div>
 
           </div>
@@ -394,20 +440,21 @@
           <div style="text-align: center;" class="l_blog_item center">
             
             <div class="l_blog_text">
-              <a href="http://southpointecapital.com/news/2018/10/29/new-usmca-trade-pact-leaves-u-s-businesses-in-mexico-at-the-mercy-of-countrys-notoriously-corrupt-courts/"><h4>New USMCA trade pact leaves U.S....</h4></a>
+              <a href="http://southpointecapital.com/news/2018/11/20/fear-the-cloud-theres-lots-of-room-to-pull-back-taking-stock/">
+              <h4>Fear the Cloud. There’s Lots of Room ...</h4></a>
             </div>
 
             <div style="text-align: center;" class="l_blog_img center">
-              <a href="http://southpointecapital.com/news/2018/10/29/new-usmca-trade-pact-leaves-u-s-businesses-in-mexico-at-the-mercy-of-countrys-notoriously-corrupt-courts/">
-                <img style="display: inline-block; width: 300px; height: 200px;" class="img-fluid" src="images/blog/3.png" alt="">
+              <a href="http://southpointecapital.com/news/2018/11/20/fear-the-cloud-theres-lots-of-room-to-pull-back-taking-stock/">
+                <img style="display: inline-block; width: 300px; height: 200px;" class="img-fluid" src="images/blog/6.jpg" alt="">
               </a>
             </div>
 
             <div class="l_blog_text">
               <div style="text-align: center;" class="date center">
-                <a href="http://southpointecapital.com/news/2018/10/29/new-usmca-trade-pact-leaves-u-s-businesses-in-mexico-at-the-mercy-of-countrys-notoriously-corrupt-courts/">29 October, 2018</a>
+                <a href="http://southpointecapital.com/news/2018/11/20/fear-the-cloud-theres-lots-of-room-to-pull-back-taking-stock/">20 November, 2018</a>
               </div>
-              <p style="text-align: left;">The new deal ends key legal protections that the Trump administration had seen as a subsidy for U.S. companies to invest in Mexico...</p>
+              <p style="text-align: left;">The selling remains vicious and the bounces are listless....</p>
             </div>
 
           </div>
@@ -488,7 +535,8 @@
 
             <div class="col-md-12">
 
-              info@southpointecapital.com
+              <a href="mailto:&#105;&#110;&#102;&#111;&#64;&#115;&#111;&#117;&#116;&#104;&#112;&#111;&#105;&#110;&#116;&#101;&#99;&#97;&#112;&#105;&#116;&#97;&#108;&#46;&#99;&#111;&#109;">&#105;&#110;&#102;&#111;&#64;&#115;&#111;&#117;&#116;&#104;&#112;&#111;&#105;&#110;&#116;&#101;&#99;&#97;&#112;&#105;&#116;&#97;&#108;&#46;&#99;&#111;&#109;</a>
+              
 
             </div>
 

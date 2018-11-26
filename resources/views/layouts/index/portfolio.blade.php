@@ -42,7 +42,14 @@
         </div>
         <div style="background: rgba(255,255,255,.5); width: 100%;" class="slide__content center layer_transparent">
           <div class="slide__content--headings center">
-            <h2 style="color: black;" class="animated center titles" data-animation-in="fadeInUp">COMING SOON</h2>
+            
+            <div class="container-title">
+                <div class="helper-title">
+                    <div style="background: rgba(255,255,255,.5);" class="content-title">
+                      <h2 style="padding-top: 20px; padding-bottom: 20px; color: black;" class="animated center titles" data-animation-in="fadeInUp">COMING SOON</h2>
+                    </div>
+                </div>
+            </div>
             
           </div>
         </div>

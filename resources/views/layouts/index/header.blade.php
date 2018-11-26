@@ -59,26 +59,83 @@
                 }
             }
 
+            .container-title {
+                display: block !important;
+                height: 100% !important;
+                position: absolute !important;
+                overflow: hidden !important;
+                width: 100% !important;
+                left: 0 !important;
+            }
+
+            .helper-title-slider {
+                position: absolute !important;
+                display: block !important;
+                vertical-align: middle !important;
+                width: 100%;
+                top: 20% !important;
+            }
+            
+            @media (min-width: 992px) {
+                
+                .helper-title-slider {
+                    position: absolute !important;
+                    display: block !important;
+                    vertical-align: middle !important;
+                    width: 100%;
+                    top: 35% !important;
+                }
+
+            }
+
+            .helper-title {
+                position: absolute !important;
+                display: block !important;
+                vertical-align: middle !important;
+                width: 100%;
+                top: 40% !important;
+            }
+            
+            @media (min-width: 992px) {
+                
+                .helper-title {
+                    position: absolute !important;
+                    display: block !important;
+                    vertical-align: middle !important;
+                    width: 100%;
+                    top: 40% !important;
+                }
+
+            }
+
+            .content-title {
+                #position: relative !important;
+                #top: -50% !important;
+                margin: 0 auto !important;
+                width: 80% !important;
+                left: 10% !important;
+            }
+
             .titles {
-                margin-top: 100px !important;
+                #margin: -25% !important;
             }
             
             @media (min-width: 992px) {
                 .titles {
-                    margin-top: 325px !important;
+                    #margin: 0 !important;
                 }
             }
 
             .layer_transparent {
                 background: rgba(255,255,255,.5); 
-                width: auto; 
+                width: 100%; 
                 height: 700px;
             }
 
             @media (min-width: 1100px) {
                 .layer_transparent {
                     background: rgba(255,255,255,.5); 
-                    width: auto; 
+                    width: 100%; 
                     height: 100vh;
                 }
             }
@@ -98,6 +155,7 @@
                     box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);
                 }
             }
+
         </style>
 
 
