@@ -155,9 +155,37 @@
   <section id="aboutUs" style="background-color: #DDD;" class="welcome_area p_120">
     <div class="container">
       <div class="row welcome_inner">
-        <div class="col-lg-6">
-          <div class="welcome_text">
-            <h4 style="color: black;">About Us</h4>
+        <div class="col-lg-12">
+
+
+          <div class="row center">
+
+            <h2 style="font-family: 'Heebo', sans-serif; font-size: 36px; color: #222222; font-weight: bold; margin-bottom: 30px; text-transform: uppercase; color: black; text-align: center;" class="center">About Us</h2>
+
+            <div style="display: inline-block; text-align: center; margin-bottom: 0; padding-bottom: 20px;" data-aos="zoom-out" class="col-xs-12 col-sm-12 col-md-4 center">
+              <div style="display: inline-block; text-align: center; width: 150px; height: 182px; background-color: white; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="wel_item">
+                <i style="text-align: center;" class="lnr lnr-database"></i>
+                <h4 style="color: black; text-align: center;">20+</h4>
+                <p style="color: black; text-align: center;">Years of Experience</p>
+              </div>
+            </div>
+            <div style="display: inline-block; text-align: center; margin-bottom: 0; padding-bottom: 20px;" data-aos="zoom-out" class="col-xs-12 col-sm-12 col-md-4 center">
+              <div style="display: inline-block; text-align: center; width: 150px; height: 182px; background-color: white !important; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="wel_item">
+                <i style="text-align: center;" class="lnr lnr-book"></i>
+                <h4 style="color: black; text-align: center;">1465</h4>
+                <p style="color: black; text-align: center;">Total Projects</p>
+              </div>
+            </div>
+            <div style="display: inline-block; text-align: center; margin-bottom: 0; padding-bottom: 20px;" data-aos="zoom-out" class="col-xs-12 col-sm-12 col-md-4 center">
+              <div style="display: inline-block; text-align: center; width: 150px; height: 182px; background-color: white; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="wel_item">
+                <i style="text-align: center;" class="lnr lnr-users"></i>
+                <h4 style="color: black; text-align: center;">3965</h4>
+                <p style="color: black; text-align: center;">Total Trainees</p>
+              </div>
+            </div>
+          </div>
+
+          <div style="margin-top: 60px;" class="col-lg-12">
             <p style="text-align: justify; color: black; margin-bottom: 18px; padding-bottom: 0;">
               Southpointe Capital has years of experience providing advisory services for companies looking for financial expertise. We work in virtually every industrial sector and in every province in Canada. 
             </p>
@@ -168,61 +196,38 @@
               We offer professional financial expertise ranging from business valuation through prospecting for buyers and preparing the company for sale or public listing, and we can ensure that you present your business in the best possible light.
             </p>
 
-            <div class="row">
-              <div style="margin-bottom: 0; padding-bottom: 20px;" data-aos="zoom-out" class="col-xs-12 col-sm-12 col-md-4">
-                <div style="height: 182px; background-color: white; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="wel_item">
-                  <i class="lnr lnr-database"></i>
-                  <h4 style="color: black;">20+</h4>
-                  <p style="color: black;">Years of Experience</p>
-                </div>
-              </div>
-              <div style="margin-bottom: 0; padding-bottom: 20px;" data-aos="zoom-out" class="col-xs-12 col-sm-12 col-md-4">
-                <div style="height: 182px; background-color: white !important; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="wel_item">
-                  <i class="lnr lnr-book"></i>
-                  <h4 style="color: black;">1465</h4>
-                  <p style="color: black;">Total Projects</p>
-                </div>
-              </div>
-              <div style="margin-bottom: 0; padding-bottom: 20px;" data-aos="zoom-out" class="col-xs-12 col-sm-12 col-md-4">
-                <div style="height: 182px; background-color: white; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="wel_item">
-                  <i class="lnr lnr-users"></i>
-                  <h4 style="color: black;">3965</h4>
-                  <p style="color: black;">Total Trainees</p>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
-        <div style="border-radius: 2%;" class="col-lg-6">
-          <div class="tools_expert">
-            <h3 style="">Expertise</h3>
+        <div style="padding-bottom: 0px !important; border-radius: 2%; text-align: center;" class="col-lg-12">
+          <div style="padding-bottom: 0px !important; text-align: center;" class="tools_expert center">
+            <h3 style="text-align: center;">Expertise</h3>
             <div class="skill_main">
           <div data-aos="zoom-out" class="skill_item">
-            <h4 style=" color: black;">Financials <span class="counter">100</span>%</h4>
+            <h4 style="margin-top: 40px; text-align: center; color: black;">Financials <span class="counter">100</span>%</h4>
             <div style="padding-top: 5px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="progress">
               <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
           <div data-aos="zoom-out" class="skill_item">
-            <h4 style=" color: black;">Valuations <span class="counter">100</span>%</h4>
+            <h4 style="text-align: center; color: black;">Valuations <span class="counter">100</span>%</h4>
             <div style="padding-top: 5px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="progress">
               <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
           <div data-aos="zoom-out" class="skill_item">
-            <h4 style=" color: black;">Companies Adquisitions <span class="counter">100</span>%</h4>
+            <h4 style="text-align: center; color: black;">Companies Adquisitions <span class="counter">100</span>%</h4>
             <div style="padding-top: 5px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="progress">
               <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
           <div data-aos="zoom-out" class="skill_item">
-            <h4 style=" color: black;">Due Diligence <span class="counter">100</span>%</h4>
+            <h4 style="text-align: center; color: black;">Due Diligence <span class="counter">100</span>%</h4>
             <div style="padding-top: 5px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="progress">
               <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
           <div data-aos="zoom-out" class="skill_item">
-            <h4 style=" color: black;">Accounting and Corporate Services <span class="counter">100</span>%</h4>
+            <h4 style="text-align: center; color: black;">Accounting and Corporate Services <span class="counter">100</span>%</h4>
             <div style="padding-top: 5px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" class="progress">
               <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
@@ -236,7 +241,7 @@
   <!--================End Welcome Area =================-->
 
   <!--================Feature Area =================-->
-  <section style="background-color: #DDD;" class="feature_area p_120">
+  <section id="services" style="background-color: #DDD;" class="feature_area p_120">
     <div class="container">
       <div class="main_title">
         <h2>Services</h2>
@@ -469,85 +474,95 @@
   <!--================End Latest Blog Area =================-->
 
   <!--================Contact Area =================-->
-  <section id="contacts" style="background-color: #DDD;" class="testimonials_area p_120">
+  <section id="contacts" style="background-color: #DDD; padding-bottom: 120px;" class="testimonials_area p_120">
     <div class="container">
       <div class="main_title">
         <h2>CONTACT US</h2>
-    </div>
-  <div class="row">
-    <div style="margin-top: 60px;" class="col-md-6">
-
-      <div data-aos="zoom-out" class="form-group">
-        <label style="color: black;" for="InputName">Name:</label>
-        <input style="color: black; padding-left: 10px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3); background: #FFFFFF;" type="text" class="form-control" id="name" placeholder="">
       </div>
-
-      <div data-aos="zoom-out" class="form-group">
-        <label style="color: black;" for="InputName">Email:</label>
-        <input style="color: black; padding-left: 10px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3); background: #FFFFFF;" type="email" class="form-control" id="email" placeholder="">
-      </div>
-
-      <div data-aos="zoom-out" class="form-group">
-        <label style="color: black;" for="InputName">Message:</label>
-        <textarea style="color: black; padding-left: 10px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3); height: 200px; background: #FFFFFF;" class="form-control" id="body" placeholder=""></textarea>
-      </div>
-
-      <div data-aos="zoom-out" style="margin-top:20px; text-align: left;">
-          <a ng-click="send();" style="cursor: pointer; color: white; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" id="send1" class="banner_btn">Send</a>
-      </div>
-
-    </div>
-    <div class="col-md-6">
-    
       <div class="row">
 
-        <div style="margin-top: 80px; color: black;" class="col-md-12">
-
+        <div class="col-md-12">
+        
           <div class="row">
 
-            <div class="col-md-12">
-              For further inquiries, please contact us by filling out the form to the left in full or via the information below and we will respond promptly. We look forward to hearing from you.
-              <br><br>
-              <b style=" color: black;">SOUTHPOINTE CAPITAL</b> 
+            <div style="margin-top: 80px; color: black;" class="col-md-12">
 
-            </div>
+              <div class="row">
 
-          </div>
-
-          <div class="row">
-
-              <div class="col-md-12">
-                  <br />
-                  101 South Reid Street #307<br />
-                  Sioux Falls, SD 57103<br /><br />
-
-                  2727 Paces Ferry Road SE #750<br />
-                  Atlanta, GA 30339<br /><br />
-
-                  71-75 Shelton Street, Covent <br />
-                  Garden, London, England, WC2H 9JQ<br /><br />
+                <div class="col-md-12">
+                  For further inquiries, please contact us by filling out the form to the left in full or via the information below and we will respond promptly. We look forward to hearing from you.
+                  
+                </div>
 
               </div>
-
+              
+            </div>
+              
           </div>
+
+        </div>
+
+        <div style="margin-top: 60px;" class="col-md-12">
 
           <div class="row">
 
-            <div class="col-md-12">
+            <div class="col-md-1">
 
-              <a href="mailto:&#105;&#110;&#102;&#111;&#64;&#115;&#111;&#117;&#116;&#104;&#112;&#111;&#105;&#110;&#116;&#101;&#99;&#97;&#112;&#105;&#116;&#97;&#108;&#46;&#99;&#111;&#109;">&#105;&#110;&#102;&#111;&#64;&#115;&#111;&#117;&#116;&#104;&#112;&#111;&#105;&#110;&#116;&#101;&#99;&#97;&#112;&#105;&#116;&#97;&#108;&#46;&#99;&#111;&#109;</a>
-              
+            </div>
+
+            <div class="col-md-10">
+
+              <div data-aos="zoom-out" class="form-group">
+                <label style="color: black;" for="InputName">Name:</label>
+                <input style="color: black; padding-left: 10px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3); background: #FFFFFF;" type="text" class="form-control" id="name" placeholder="">
+              </div>
+
+              <div data-aos="zoom-out" class="form-group">
+                <label style="color: black;" for="InputName">Email:</label>
+                <input style="color: black; padding-left: 10px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3); background: #FFFFFF;" type="email" class="form-control" id="email" placeholder="">
+              </div>
+
+              <div data-aos="zoom-out" class="form-group">
+                <label style="color: black;" for="InputName">Message:</label>
+                <textarea style="color: black; padding-left: 10px; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3); height: 200px; background: #FFFFFF;" class="form-control" id="body" placeholder=""></textarea>
+              </div>
+
+              <div style="margin-top:20px; text-align: left;">
+                  <a ng-click="send();" style="cursor: pointer; color: white; box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3);" id="send1" class="banner_btn">Send</a>
+              </div>
+
+            </div>
+
+            <div class="col-md-1">
 
             </div>
 
           </div>
-          
-        </div>
-          
-      </div>
 
-    </div>
-  </div>
+        </div>
+
+        <div style="margin-top: 60px;" class="col-md-12">
+
+          <div class="row">
+
+            <div class="col-md-1">
+
+            </div>
+
+            <div class="col-md-10">
+
+              
+            </div>
+
+            <div class="col-md-1">
+
+            </div>
+
+          </div>
+
+        </div>
+        
+      </div>
     </div>
   </section>
   <!--================End Testimonials Area =================-->

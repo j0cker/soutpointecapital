@@ -22,12 +22,13 @@
 						<div class="f_title">
 							<h3>Navigation</h3>
 						</div>
-						<div data-aos="zoom-out" style="text-align: left;">
-							<a style="cursor: pointer !important; color: white;" class="" href="/?go=aboutUsMenu" id="aboutUsMenu2">About Us</a><br>
+						<div style="text-align: left;">
+							<a style="cursor: pointer !important; color: white;" class="" href="/?go=aboutUsMenu">About Us</a><br>
+							<a style="color: white; cursor: pointer !important;" class="" href="/?go=servicesMenu">Services</a><br>
 							<a style="cursor: pointer !important; color: white;" class="" href="/people">People</a><br>
 							<a style="cursor: pointer !important; color: white;" class="" href="/portfolio">Portfolio</a><br>
 							<a style="cursor: pointer !important; color: white;" class="" href="/news">News</a><br>
-							<a style="cursor: pointer !important; color: white;" class="" href="/?go=contactsMenu" id="contactsMenu2">Contact</a>
+							<a style="cursor: pointer !important; color: white;" class="" href="/?go=contactsMenu">Contact</a>
 						</div>
 					</aside>
 				</div>
@@ -64,13 +65,13 @@
 						</div>
 						<div style="text-align: left;">
 
-							<a style="color: white;" href="mailto:&#105;&#110;&#102;&#111;&#64;&#115;&#111;&#117;&#116;&#104;&#112;&#111;&#105;&#110;&#116;&#101;&#99;&#97;&#112;&#105;&#116;&#97;&#108;&#46;&#99;&#111;&#109;">&#105;&#110;&#102;&#111;&#64;&#115;&#111;&#117;&#116;&#104;&#112;&#111;&#105;&#110;&#116;&#101;&#99;&#97;&#112;&#105;&#116;&#97;&#108;&#46;&#99;&#111;&#109;</a><br>
+							<a style="" href="mailto:&#105;&#110;&#102;&#111;&#64;&#115;&#111;&#117;&#116;&#104;&#112;&#111;&#105;&#110;&#116;&#101;&#99;&#97;&#112;&#105;&#116;&#97;&#108;&#46;&#99;&#111;&#109;">&#105;&#110;&#102;&#111;&#64;&#115;&#111;&#117;&#116;&#104;&#112;&#111;&#105;&#110;&#116;&#101;&#99;&#97;&#112;&#105;&#116;&#97;&#108;&#46;&#99;&#111;&#109;</a><br><br>
 
-							<a style="color: white;">101 South Reid Street #307 Sioux Falls, SD 57103</a><br>
+							<a style="color: white;">101 South Reid Street #307<br> Sioux Falls, SD 57103</a><br><br>
 
-							<a style="color: white;">2727 Paces Ferry Road SE #750 Atlanta, GA 30339</a><br>
+							<a style="color: white;">2727 Paces Ferry Road SE #750<br> Atlanta, GA 30339</a><br><br>
 
-							<a style="color: white;">71-75 Shelton Street, Covent Garden, London, England, WC2H 9JQ</a><br>
+							<a style="color: white;">71-75 Shelton Street, Covent Garden,<br> London, England, WC2H 9JQ</a><br>
 							
 						</div>
 					</aside>
@@ -78,7 +79,7 @@
 
 			</div>
 			<div style="padding-bottom: 50px; color: white; margin-top: 100px; text-align: center;" class="row center">
-				© 2018 SOUTHPOINTECAPITAL. All Rights Reserved.
+				© 2018 SOUTHPOINTECAPITAL.<br> All Rights Reserved.
 			</div>
         </footer>
         <!--================End Footer Area =================-->
@@ -187,6 +188,13 @@
 						scrollTop: $("#aboutUs").offset().top},
 						'slow');
 				});
+
+				$(".servicesMenu").click(function() {
+					console.log("Click");
+					$('html,body').animate({
+						scrollTop: $("#services").offset().top},
+						'slow');
+				});
             });
         
         </script>
@@ -224,7 +232,14 @@
 						'slow');
                     @php
                 }
+                if($scroll=="servicesMenu"){
 
+                    @endphp
+                    $('html,body').animate({
+						scrollTop: $("#contacts").offset().top},
+						'slow');
+                    @php
+                }
                 @endphp
             });
         </script>
