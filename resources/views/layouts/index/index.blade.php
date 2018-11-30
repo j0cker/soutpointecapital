@@ -47,8 +47,8 @@
                 <div class="helper-title-slider">
                     <div style="background: rgba(255,255,255,.5);" class="content-title">
 
-                      <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
-                      <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center subtitles" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
+                      <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Who we are</h2>
+                      <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center subtitles" data-animation-in="fadeInUp" data-delay-in="0.3">A financial Advisory Company, which operates from Canada, United States and United Kingdom to ensure the best service for our clients. Thanks to very qualified employees and many years of experience, we are the right choice as your financial partner.</p>
               
                     </div>
                 </div>
@@ -69,8 +69,8 @@
                 <div class="helper-title-slider">
                     <div style="background: rgba(255,255,255,.5);" class="content-title">
 
-                      <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
-                      <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center subtitles" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
+                      <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">What we do</h2>
+                      <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center subtitles" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essentials in running the business, and go above and beyond  in assisting our clients with all aspects of their business.</p>
               
                     </div>
                 </div>
@@ -91,30 +91,8 @@
                 <div class="helper-title-slider">
                     <div style="background: rgba(255,255,255,.5);" class="content-title">
 
-                      <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
-                      <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center subtitles" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
-              
-                    </div>
-                </div>
-            </div>
-
-          </div>
-        </div>
-      </div>
-
-      <div class="slide">
-        <div class="slide__img">
-          <img src="" alt="" data-lazy="images/building7.jpg" class="full-image animated" data-animation-in="zoomInImage"/>
-        </div>
-        <div style="" class="slide__content center layer_transparent">
-          <div class="slide__content--headings center">
-
-            <div class="container-title">
-                <div class="helper-title-slider">
-                    <div style="background: rgba(255,255,255,.5);" class="content-title">
-
-                      <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
-                      <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center subtitles" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
+                      <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Why we are the best</h2>
+                      <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center subtitles" data-animation-in="fadeInUp" data-delay-in="0.3">We provide not only services, but a real support in our clients' daily business. We deliver what we promise and keep the client in the center of our attention. We would be happy to welcome you as our new client.</p>
               
                     </div>
                 </div>
@@ -135,8 +113,8 @@
                 <div class="helper-title-slider">
                     <div style="background: rgba(255,255,255,.5);" class="content-title">
 
-                      <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Financial Advisory</h2>
-                      <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center subtitles" data-animation-in="fadeInUp" data-delay-in="0.3">We help you manage your resources, understand your finances, address governance essential to running the business and we go beyond to assist our clients with all aspects of their business. We provide our depth of experience, training, resources and skills and tailor them to your needs.</p>
+                      <h2 style="animation-duration: 0.5s; padding-top: 25px; color: black;" class="animated center titles" data-animation-in="fadeInUp">Our value</h2>
+                      <p style="color: black; padding: 30px 30px 30px 30px; " class="animated center subtitles" data-animation-in="fadeInUp" data-delay-in="0.3">We deliver professional services and fully understand our clients and their needs. We value our clients and we are confident that together we can achieve any goal.</p>
               
                     </div>
                 </div>
