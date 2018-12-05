@@ -523,16 +523,23 @@
 
           <div class="row">
 
-            <div class="col-md-1">
-
-            </div>
-
-            <div class="col-md-10">
-
+            <div class="col-md-8">
               
+              <iframe id="map1" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2891.8401511567577!2d-96.72574938450568!3d43.54737387912515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x878eb5a373e20fcd%3A0x8894a90c7d73099b!2s101+S+Reid+St+%23307%2C+Sioux+Falls%2C+SD+57103%2C+EE.+UU.!5e0!3m2!1ses-419!2smx!4v1544053020893" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+              <iframe id="map2" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3312.9084155205783!2d-84.47596238478984!3d33.86625108065691!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f510646939b3f9%3A0x91d8a4bac3becbf4!2s2727+Paces+Ferry+Rd+SE+%23750%2C+Atlanta%2C+GA+30339%2C+EE.+UU.!5e0!3m2!1ses-419!2smx!4v1544053070819" style="display: none;" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+              <iframe id="map3" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.907909745984!2d-0.12578628422974847!3d51.51490547963637!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604ccabd74e61%3A0x9f541e2bfa56e4dd!2s71+Shelton+St%2C+London+WC2H+9BP%2C+Reino+Unido!5e0!3m2!1ses-419!2smx!4v1544053103273" style="display: none;" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
             </div>
 
-            <div class="col-md-1">
+            <div style="margin-top: 100px; text-align: center;" class="col-md-4 center">
+              
+            <a ng-click="map(1)" style="cursor: pointer; text-align: center;">101 South Reid Street #307<br> Sioux Falls, SD 57103</a><br><br>
+
+            <a ng-click="map(2)" style="cursor: pointer; text-align: center;">2727 Paces Ferry Road SE #750<br> Atlanta, GA 30339</a><br><br>
+
+            <a ng-click="map(3)" style="cursor: pointer; text-align: center;">71-75 Shelton Street, Covent Garden,<br> London, England, WC2H 9JQ</a><br>
 
             </div>
 

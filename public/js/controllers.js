@@ -5,6 +5,39 @@
 
         console.log("[IndexCtrl]");
 
+        $scope.map = function(map) {
+
+            console.log("[IndexCtrl][map] " + map);
+
+            $("#map" + map).css("display", "inline-block");
+
+            if (map == 1) {
+                $("#map2").css("display", "none");
+                $("#map3").css("display", "none");
+                $('html,body').animate({
+                        scrollTop: $("#map1").offset().top
+                    },
+                    'slow');
+            }
+            if (map == 2) {
+                $("#map1").css("display", "none");
+                $("#map3").css("display", "none");
+                $('html,body').animate({
+                        scrollTop: $("#map2").offset().top
+                    },
+                    'slow');
+            }
+            if (map == 3) {
+                $("#map1").css("display", "none");
+                $("#map2").css("display", "none");
+                $('html,body').animate({
+                        scrollTop: $("#map3").offset().top
+                    },
+                    'slow');
+            }
+
+        }
+
         $scope.send = function() {
                 console.log("[IndexCtrl][send]");
 
