@@ -370,22 +370,22 @@
           <div style="text-align: center;" class="l_blog_item center">
             
             <div class="l_blog_text">
-              <a href="http://southpointecapital.com/news/2018/11/20/annual-pace-of-housing-starts-picked-up-in-october-topping-economists-expectations/">
-                <h4>Annual pace of housing starts picked up...</h4>
+              <a href="http://southpointecapital.com/news/2018/12/12/stock-exchanges-find-novel-uses-for-blockchain/">
+                <h4>Stock exchanges find novel uses for blockchain</h4>
               </a>
             </div>
 
             <div style="text-align: center;" class="l_blog_img center">
-              <a href="http://southpointecapital.com/news/2018/11/20/annual-pace-of-housing-starts-picked-up-in-october-topping-economists-expectations/">
-                <img style="display: inline-block; width: 300px; height: 200px;" class="img-fluid" src="images/blog/4.jpg" alt="">
+              <a href="http://southpointecapital.com/news/2018/12/12/stock-exchanges-find-novel-uses-for-blockchain/">
+                <img style="display: inline-block; width: 300px; height: 200px;" class="img-fluid" src="images/blog/8.jpg" alt="">
               </a>
             </div>
 
             <div style="text-align: center;" class="l_blog_text center">
               <div style="text-align: center;" class="date center">
-                <a href="http://southpointecapital.com/news/2018/11/20/annual-pace-of-housing-starts-picked-up-in-october-topping-economists-expectations/">20 November, 2018</a>
+                <a href="http://southpointecapital.com/news/2018/12/12/stock-exchanges-find-novel-uses-for-blockchain/">15 November, 2018</a>
               </div>
-              <p style="text-align: left;">The increase came as the annual pace of urban starts climbed by 8.6 per cent in October to 191,964 units....</p>
+              <p style="text-align: left;">Blockchain, the technology underlying bitcoin and other cryptocurrencies, was designed with an ideological aim....</p>
             </div>
 
           </div>
@@ -397,21 +397,21 @@
           <div style="text-align: center;" class="l_blog_item center">
             
             <div class="l_blog_text">
-                <a href="http://southpointecapital.com/news/2018/11/20/canadian-business-groups-have-called-on-prime-minister-justin-trudeau-to-address-weakening-competitiveness-canadian-prime-minister-justin-trudeau-meets-with-chinese-premier-li-keqiang-before-the-cana/">
-                <h4>‘Be more entrepreneurial’: Chance for...</h4></a>
+                <a href="http://southpointecapital.com/news/2018/12/12/3-reasons-millennials-should-enter-into-digital-finance-and-fintech/">
+                <h4>3 Reasons Millennials Should Enter Into...</h4></a>
             </div>
 
             <div style="text-align: center;" class="l_blog_img center">
-              <a href="http://southpointecapital.com/news/2018/11/20/canadian-business-groups-have-called-on-prime-minister-justin-trudeau-to-address-weakening-competitiveness-canadian-prime-minister-justin-trudeau-meets-with-chinese-premier-li-keqiang-before-the-cana/">
-                <img style="display: inline-block; width: 300px; height: 200px;" class="img-fluid" src="images/blog/5.jpg" alt="">
+              <a href="http://southpointecapital.com/news/2018/12/12/3-reasons-millennials-should-enter-into-digital-finance-and-fintech/">
+                <img style="display: inline-block; width: 300px; height: 200px;" class="img-fluid" src="images/blog/7.jpg" alt="">
               </a>
             </div>
 
             <div class="l_blog_text">
               <div style="text-align: center;" class="date center">
-                <a href="http://southpointecapital.com/news/2018/11/20/canadian-business-groups-have-called-on-prime-minister-justin-trudeau-to-address-weakening-competitiveness-canadian-prime-minister-justin-trudeau-meets-with-chinese-premier-li-keqiang-before-the-cana/">20 November, 2018</a>
+                <a href="http://southpointecapital.com/news/2018/12/12/3-reasons-millennials-should-enter-into-digital-finance-and-fintech/">8 December, 2018</a>
               </div>
-              <p style="text-align: left;">Canada should take advantage of fraught relations between the U.S. and nations including China to lure capital....</p>
+              <p style="text-align: left;">Whether it’s the fear of missing out (FOMO) or just simply not wanting to be left behind, young investors and businesses....</p>
             </div>
 
           </div>
