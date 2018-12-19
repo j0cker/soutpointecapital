@@ -1,5 +1,14 @@
 <?php
 
+/*
+wordpress integration
+*/
+
+// Loads template at the beginning?
+define('WP_USE_THEMES', false);
+// Loads the WordPress Environment and Template
+require( dirname( __FILE__ ) . '/news/wp-blog-header.php' );
+
 /**
  * Laravel - A PHP Framework For Web Artisans
  *

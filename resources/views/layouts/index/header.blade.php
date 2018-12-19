@@ -46,6 +46,10 @@
         <link rel="stylesheet" href="css/menu/menu.css">
 
         <style>
+            .wp-post-image{
+                width: 300px;
+                height: 200px;
+            }
             .logo {
                 width: 200px;
                 overflow: hidden;

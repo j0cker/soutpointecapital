@@ -365,84 +365,58 @@
 
       <div style="margin-top: 50px;" class="row latest_blog_inner">
 
+      @php
+      
+      $args = array( 'numberposts' => '3' );
+	    $recent_posts = wp_get_recent_posts( $args );
+
+      foreach( $recent_posts as $recent ){
+        @endphp
+        
         <div data-aos="zoom-out" class="col-lg-4">
 
           <div style="text-align: center;" class="l_blog_item center">
             
             <div class="l_blog_text">
-              <a href="http://southpointecapital.com/news/2018/12/12/stock-exchanges-find-novel-uses-for-blockchain/">
-                <h4>Stock exchanges find novel uses for blockchain</h4>
+              <a href="@php echo get_permalink($recent['ID']); @endphp">
+                <h4>@php echo substr($recent['post_title'],0,35); @endphp...</h4>
               </a>
             </div>
 
-            <div style="text-align: center;" class="l_blog_img center">
-              <a href="http://southpointecapital.com/news/2018/12/12/stock-exchanges-find-novel-uses-for-blockchain/">
-                <img style="display: inline-block; width: 300px; height: 200px;" class="img-fluid" src="images/blog/8.jpg" alt="">
-              </a>
-            </div>
+            @php
+
+            if ( has_post_thumbnail($recent['ID']) ) {
+              @endphp
+
+              <div style="text-align: center;" class="l_blog_img center">
+                <a href="@php echo get_permalink($recent['ID']); @endphp">
+                  @php echo get_the_post_thumbnail($recent['ID'], array(300,300)); @endphp
+                </a>
+              </div>
+
+              @php
+
+            }
+
+            @endphp
 
             <div style="text-align: center;" class="l_blog_text center">
               <div style="text-align: center;" class="date center">
-                <a href="http://southpointecapital.com/news/2018/12/12/stock-exchanges-find-novel-uses-for-blockchain/">15 November, 2018</a>
+                <a href="@php echo get_permalink($recent['ID']); @endphp">@php echo $recent['post_date']; @endphp</a>
               </div>
-              <p style="text-align: left;">Blockchain, the technology underlying bitcoin and other cryptocurrencies, was designed with an ideological aim....</p>
+              <p style="text-align: left;">@php echo substr(wpautop( $recent['post_content']),0,200); @endphp....</p>
             </div>
 
           </div>
 
         </div>
+      
 
-        <div data-aos="zoom-out" class="col-lg-4">
+        @php
+      }
+      wp_reset_query();
 
-          <div style="text-align: center;" class="l_blog_item center">
-            
-            <div class="l_blog_text">
-                <a href="http://southpointecapital.com/news/2018/12/12/3-reasons-millennials-should-enter-into-digital-finance-and-fintech/">
-                <h4>3 Reasons Millennials Should Enter Into...</h4></a>
-            </div>
-
-            <div style="text-align: center;" class="l_blog_img center">
-              <a href="http://southpointecapital.com/news/2018/12/12/3-reasons-millennials-should-enter-into-digital-finance-and-fintech/">
-                <img style="display: inline-block; width: 300px; height: 200px;" class="img-fluid" src="images/blog/7.jpg" alt="">
-              </a>
-            </div>
-
-            <div class="l_blog_text">
-              <div style="text-align: center;" class="date center">
-                <a href="http://southpointecapital.com/news/2018/12/12/3-reasons-millennials-should-enter-into-digital-finance-and-fintech/">8 December, 2018</a>
-              </div>
-              <p style="text-align: left;">Whether it’s the fear of missing out (FOMO) or just simply not wanting to be left behind, young investors and businesses....</p>
-            </div>
-
-          </div>
-
-        </div>
-
-        <div data-aos="zoom-out" class="col-lg-4">
-
-          <div style="text-align: center;" class="l_blog_item center">
-            
-            <div class="l_blog_text">
-              <a href="http://southpointecapital.com/news/2018/11/20/fear-the-cloud-theres-lots-of-room-to-pull-back-taking-stock/">
-              <h4>Fear the Cloud. There’s Lots of Room ...</h4></a>
-            </div>
-
-            <div style="text-align: center;" class="l_blog_img center">
-              <a href="http://southpointecapital.com/news/2018/11/20/fear-the-cloud-theres-lots-of-room-to-pull-back-taking-stock/">
-                <img style="display: inline-block; width: 300px; height: 200px;" class="img-fluid" src="images/blog/6.jpg" alt="">
-              </a>
-            </div>
-
-            <div class="l_blog_text">
-              <div style="text-align: center;" class="date center">
-                <a href="http://southpointecapital.com/news/2018/11/20/fear-the-cloud-theres-lots-of-room-to-pull-back-taking-stock/">20 November, 2018</a>
-              </div>
-              <p style="text-align: left;">The selling remains vicious and the bounces are listless....</p>
-            </div>
-
-          </div>
-
-        </div>
+      @endphp
 
       </div>
 
